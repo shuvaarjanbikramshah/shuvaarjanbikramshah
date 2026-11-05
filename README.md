@@ -2,7 +2,6 @@
 
 Software Developer passionate about building practical, scalable solutions and learning modern cloud and automation technologies.
 
-- 🌐 Portfolio: https://www.moncy.dev
 - 💼 Focus: Azure, DevOps, CI/CD, automation, software engineering
 - 🧩 Interests: Java, Jenkins, cloud infrastructure, and clean application design
 
